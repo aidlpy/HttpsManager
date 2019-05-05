@@ -1,0 +1,22 @@
+{
+  "name": "HttpsManager",
+  "version": "0.1.0",
+  "summary": "A short description of HttpsManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhang651651/HttpsManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhang651651": "admin@aidlpy.com"
+  },
+  "source": {
+    "git": "https://github.com/zhang651651/HttpsManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HttpsManager/Classes/**/*"
+}

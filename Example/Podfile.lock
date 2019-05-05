@@ -1,0 +1,16 @@
+PODS:
+  - HttpsManager (0.1.0)
+
+DEPENDENCIES:
+  - HttpsManager (from `../`)
+
+EXTERNAL SOURCES:
+  HttpsManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HttpsManager: 12663fa85bff799915aa71dac1d7d6d67af4b6a8
+
+PODFILE CHECKSUM: fb35070eded2dcccf7f589946c71088fa99faf91
+
+COCOAPODS: 1.6.1

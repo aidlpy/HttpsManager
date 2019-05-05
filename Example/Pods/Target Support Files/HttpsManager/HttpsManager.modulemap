@@ -1,0 +1,6 @@
+framework module HttpsManager {
+  umbrella header "HttpsManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
