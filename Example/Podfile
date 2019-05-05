@@ -3,11 +3,12 @@ use_frameworks!
 platform :ios, '8.0'
 
 target 'HttpsManager_Example' do
+  pod 'AFNetworking', '~> 3.0'
   pod 'HttpsManager', :path => '../'
 
   target 'HttpsManager_Tests' do
     inherit! :search_paths
-
+    
     
   end
 end
