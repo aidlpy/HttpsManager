@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'HttpsManager_Example' do
+  pod 'HttpsManager', :path => '../'
+
+  target 'HttpsManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
